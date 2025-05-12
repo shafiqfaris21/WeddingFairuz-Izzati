@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Majlis Walimatul Urus Fairuz & Izzati
+DTSTART:20250531T030000Z
+DTEND:20250531T080000Z
+DESCRIPTION:Jemput hadir ke majlis walimatul urus Fairuz & Izzati.\nLokasi: Orchid Event Space, Sri Pinang Glass House, Benut, Johor Darul Ta'zim
+LOCATION:Orchid Event Space, Sri Pinang Glass House, Benut, Johor Darul Ta'zim
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder for Majlis Perkahwinan Fairuz & Izzati
+END:VALARM
+END:VEVENT
+END:VCALENDAR
